@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: peachpuff
+}
+
+header {
+    
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.menu{
+    color: black;
+}
+
+.menu1{
+    color: black;
+}
+
+.menu2{
+    color: black;
+}
+
+.menu3{
+    color: black;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+.product {
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    width: 200px;
+    background-color: sandybrown;
+}
+
+.product img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: sandybrown;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+body1{
+    background-color: peachpuff;
+}
+
+body2{
+    background-color: peachpuff;
+}
+
+.firstlabel{
+    background-color: sandybrown;
+}
+
+.secondlabel{
+    background-color: sandybrown;
+}
+
+.thirdlabel{
+    background-color: sandybrown;
+}
+
+.body6{
+    background-color: peachpuff;
+}
